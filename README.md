@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshnhmd&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshnhmd" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://csb-6ik64.netlify.app/](https://csb-6ik64.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zeeshan-ahmad.netlify.app/](https://zeeshan-ahmad.netlify.app/)
 
 - 💬 Ask me about **react**
 
