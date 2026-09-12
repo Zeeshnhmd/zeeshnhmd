@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
-<h3 align="center">Hard-working web developer with a flair for creating elegant solutions in the least amount of time.</h3>
+<h1 align="center">Zeeshan Ahmad</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshnhmd&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshnhmd" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://zeeshan-ahmad.netlify.app/](https://zeeshan-ahmad.netlify.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **zeeshnhmd.1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@zeeshnhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@zeeshnhmd" height="30" width="40" /></a>
-<a href="https://twitter.com/@zeeshan25503764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zeeshan25503764" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zeeshanahmad25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanahmad25" height="30" width="40" /></a>
-<a href="https://instagram.com/ahma_zeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahma_zeeshan" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full Stack Software Engineer · Frontend-first</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  React · Next.js · TypeScript · Node.js · NestJS
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshnhmd&show_icons=true&locale=en&layout=compact" alt="zeeshnhmd" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/zeeshanahmad25">LinkedIn</a>
+  ·
+  <a href="mailto:zeeshnhmd.1@gmail.com">Email</a>
+</p>
+
+## About
+
+I'm a Full Stack Software Engineer with a frontend-first background, focused on building production web applications, internal platforms, and scalable frontend systems.
+
+* I work mainly with React, Next.js, TypeScript, Node.js, and NestJS.
+* I build data-heavy interfaces, reusable frontend architecture, API integrations, role-based workflows, and real-time product experiences.
+* I previously led a team of 5 engineers working on a business-critical platform used by teams across 15+ countries.
+* My work spans frontend architecture, backend APIs, performance, code reviews, CI/CD, Docker, Kubernetes, and AWS.
+* I care about maintainable systems, clean architecture, practical engineering standards, and products that are easy to evolve.
+
+## Engineering Focus
+
+`Frontend Architecture` · `Full Stack Development` · `REST APIs` · `RBAC` · `Real-time Applications` · `Performance` · `Code Quality` · `CI/CD`
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,tailwind,postgres,mysql,mongodb,sequelize,docker,kubernetes,aws,git,githubactions&perline=9" alt="Technology stack" />
+</p>
+
+**Frontend:** React, Next.js, TypeScript, Ant Design, Tailwind CSS, Zustand, AG Grid
+
+**Backend:** Node.js, Express, NestJS, Sequelize, REST APIs, Socket.IO
+
+**Data:** PostgreSQL, MySQL, MongoDB
+
+**Engineering:** Git, GitHub Actions, Docker, Kubernetes, AWS, Vercel, CI/CD
+
+## What I've Worked On
+
+* Built and maintained large production applications with 40+ modules and 100+ API integrations.
+* Designed reusable frontend architecture, shared components, state-management patterns, and standardized API layers.
+* Built complex dashboards, tables, onboarding flows, permissions, validation workflows, and developer-facing tooling.
+* Worked on real-time order management systems using React, Node.js, relational databases, and Socket.IO.
+* Improved application performance, code quality, review standards, release processes, and developer experience.
+
+## Currently
+
+I'm focused on building scalable product systems, strengthening my full stack and DevOps expertise, and exploring opportunities where I can contribute across frontend architecture and end-to-end product development.
+
+Open to **Frontend Engineer** and **Full Stack Software Engineer** opportunities with strong engineering teams.
